@@ -1,0 +1,17 @@
+{
+  "name": "Hussain Ali Portfolio",
+  "short_name": "HA Portfolio",
+  "description": "Professional portfolio of Hussain Ali, Microsoft Dynamics 365 F&O Solution Architect.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "assets/profile.webp",
+      "sizes": "640x640",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
